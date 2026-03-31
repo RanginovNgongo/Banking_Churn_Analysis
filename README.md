@@ -27,12 +27,15 @@ The interactive Power BI dashboard provides:
 - Targeted German Retention: Launch a loyalty program specifically for the German market to stabilize the high exit rate.
 - Concierge Service for Seniors: Implement a high-touch service model for customers aged 50+ to protect high-balance accounts.
 
-Project details
-|── Raw_data/
-│   └── Bank Customer Churn Prediction.csv  # Original dataset (10,000 records)
-├── SQL_Analysis/
-│   └── Banking_Churn_Analysis.sql          # Feature engineering & data cleaning
-├── Python_analysis/
-│   └── churn_analysis.ipynb                # ML Model (Random Forest, EDA, Scaling)
-├── PowerBI_Dashboard/
-│   └── Banking_Churn_Analysis.pbix         # Final interactive visualization
+Gemini said
+Here is a cleaner, more readable version of your project structure using standard text and dashes. This is much easier for recruiters to scan quickly.
+
+Project Directory Structure
+- Raw_data/
+Bank Customer Churn Prediction.csv: The original dataset containing 10,000 customer records.
+- SQL_Analysis/
+Banking_Churn_Analysis.sql: Scripts used for data cleaning, feature engineering, and creating customer segments.
+- Python_analysis/
+churn_analysis.ipynb: Jupyter Notebook containing Exploratory Data Analysis (EDA), Data Scaling, and the Random Forest Machine Learning model.
+- PowerBI_Dashboard/
+Banking_Churn_Analysis.pbix: The final interactive dashboard file used for executive reporting and data visualization.
