@@ -1,1 +1,38 @@
-# Banking_Churn_Analysis
+🏦 Bank Customer Churn Analysis & Prediction
+A Data-Driven Strategy to Increase Retention and Protect $132M in Capital.
+
+📊 Project Overview
+This project addresses a critical business challenge: Customer Attrition. By analyzing 10,000 customer records, I built a predictive model to identify "High-Risk" individuals before they leave and visualized the findings in a professional Power BI Dashboard.
+
+Key Insights Discovered:
+- The Product Cliff: Customers with 3 or 4 products have a nearly 100% churn rate, suggesting a failure in multi-product cross-selling strategy.
+- Regional Risk: Germany shows significantly higher churn rates (32%) compared to France and Spain, despite having similar balance distributions.
+- Demographic Sweet Spot: Customers aged 45–60 (Mid-Career/Senior) are the most likely to exit, representing a high-value segment at risk.
+
+🛠️ Tech Stack
+- SQL: Data cleaning and feature engineering (Age Grouping, Gender Labeling).
+- Python (Scikit-Learn): Random Forest Classifier for churn prediction.
+- Power BI: Interactive dashboarding and DAX measures for KPI tracking.
+- Pandas/Seaborn: Exploratory Data Analysis (EDA).
+
+📈 Dashboard Features
+The interactive Power BI dashboard provides:
+- Liquidity Distribution: Visualizing the $132M total balance across regions.
+- Churn Probability (AI): A predictive score for every customer.
+- Loyalty Benchmarking: Comparing Tenure vs. Exit rates.
+- Actionable "Hit List": A filtered view of high-value customers with >70% risk scores.
+
+💡 Business Recommendations
+- Review Multi-Product Strategy: Investigate why customers with 3+ products are exiting. Is it fee-fatigue or poor service integration?
+- Targeted German Retention: Launch a loyalty program specifically for the German market to stabilize the high exit rate.
+- Concierge Service for Seniors: Implement a high-touch service model for customers aged 50+ to protect high-balance accounts.
+
+Project details
+|── Raw_data/
+│   └── Bank Customer Churn Prediction.csv  # Original dataset (10,000 records)
+├── SQL_Analysis/
+│   └── Banking_Churn_Analysis.sql          # Feature engineering & data cleaning
+├── Python_analysis/
+│   └── churn_analysis.ipynb                # ML Model (Random Forest, EDA, Scaling)
+├── PowerBI_Dashboard/
+│   └── Banking_Churn_Analysis.pbix         # Final interactive visualization
