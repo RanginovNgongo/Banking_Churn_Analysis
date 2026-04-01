@@ -27,10 +27,10 @@ The interactive Power BI dashboard provides:
 - Targeted German Retention: Launch a loyalty program specifically for the German market to stabilize the high exit rate.
 - Concierge Service for Seniors: Implement a high-touch service model for customers aged 50+ to protect high-balance accounts.
 
-Gemini said
-Here is a cleaner, more readable version of your project structure using standard text and dashes. This is much easier for recruiters to scan quickly.
+📸 PowerBI Visualization
+<img width="582" height="334" alt="image" src="https://github.com/user-attachments/assets/a92d8442-1efe-4fac-bd30-ca38954eed64" />
 
-Project Directory Structure
+🗂️ Project Directory Structure
 - Raw_data/
 Bank Customer Churn Prediction.csv: The original dataset containing 10,000 customer records.
 - SQL_Analysis/
