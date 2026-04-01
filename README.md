@@ -1,5 +1,4 @@
-🏦 Bank Customer Churn Analysis & Prediction
-A Data-Driven Strategy to Increase Retention and Protect $132M in Capital.
+# Bank Customer Churn Analysis & Prediction
 
 📊 Project Overview
 This project addresses a critical business challenge: Customer Attrition. By analyzing 10,000 customer records, I built a predictive model to identify "High-Risk" individuals before they leave and visualized the findings in a professional Power BI Dashboard.
