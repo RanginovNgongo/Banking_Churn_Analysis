@@ -28,6 +28,7 @@ The interactive Power BI dashboard provides:
 - Concierge Service for Seniors: Implement a high-touch service model for customers aged 50+ to protect high-balance accounts.
 
 📸 PowerBI Visualization
+
 <img width="582" height="334" alt="image" src="https://github.com/user-attachments/assets/a92d8442-1efe-4fac-bd30-ca38954eed64" />
 
 🗂️ Project Directory Structure
