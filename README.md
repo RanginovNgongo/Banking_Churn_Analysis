@@ -39,4 +39,4 @@ Banking_Churn_Analysis.sql: Scripts used for data cleaning, feature engineering,
 - Python_analysis/
 churn_analysis.ipynb: Jupyter Notebook containing Exploratory Data Analysis (EDA), Data Scaling, and the Random Forest Machine Learning model.
 - PowerBI_Dashboard/
-Banking_Churn_Analysis.pbix: The final interactive dashboard file used for executive reporting and data visualization.
+Banking_Churn_Data_Visualization.pbix: The final interactive dashboard file used for executive reporting and data visualization.
