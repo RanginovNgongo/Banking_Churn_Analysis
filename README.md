@@ -28,7 +28,11 @@ The interactive Power BI dashboard provides:
 
 📸 PowerBI Visualization
 
-<img width="582" height="334" alt="image" src="https://github.com/user-attachments/assets/a92d8442-1efe-4fac-bd30-ca38954eed64" />
+<img width="1276" height="717" alt="image" src="https://github.com/user-attachments/assets/4ae9360c-5f7e-431c-9029-6827fefff53d" />
+
+<img width="1274" height="715" alt="image" src="https://github.com/user-attachments/assets/ac897674-7787-4578-bac5-255d49f8d342" />
+
+
 
 🗂️ Project Directory Structure
 - Raw_data/
